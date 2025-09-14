@@ -1,0 +1,45 @@
+Acquisition : série d'échantillons contigus dans le temps.
+Durée d'acquisition : durée représentée par une acquisition.
+Amplitude : amplitude d'un signal électrique.
+Modulation d'amplitude (AM) : variation de l'amplitude d'une onde sinusoïdale en fonction d'un autre signal.
+Durée de l'analyse : sous-ensemble d'échantillons d'un bloc à analyser.
+Vue d'analyse : fenêtre permettant d'afficher les résultats de mesure en temps réel.
+Transporteur : modulation porteuse de signal RF.
+Fréquence porteuse : fréquence de la composante CW du signal porteur.
+Fréquence centrale : fréquence médiane dans la plage de fréquences d'un outil d’analyse de spectre.
+CZT (Chirp-Z Transform) : méthode pour un calcul DFT efficace.
+Signal CW : signal à onde continue ; onde sinusoïdale.
+dBFS : décibels par rapport à la pleine échelle.
+dBm : décibels par rapport à 1 milliwatt.
+dBmV : décibels par rapport à 1 millivolt.
+Décibel (dB) : unité logarithmique pour les rapports de puissance.
+DFT (transformée de Fourier discrète) : processus de calcul du spectre de fréquences d'un signal.
+Ligne d'affichage : ligne de référence sur un affichage de forme d'onde.
+Distorsion : dégradation du signal, souvent due à des opérations non linéaires.
+DPX (analyse numérique du phosphore) : méthodologie d'analyse des signaux qui changent dans le temps.
+Plage dynamique : rapport entre les signaux mesurables maximaux et la précision spécifiée.
+FFT (Fast Fourier Transform) : méthode de calcul DFT efficace.
+Fréquence : taux d'oscillation du signal.
+Vue du domaine fréquentiel : représentation de la puissance des composants du signal en fonction de la fréquence.
+Dérive de fréquence : changement de fréquence progressif au fil du temps.
+Déclencheur de masque de fréquence : déclenchement en temps réel basé sur des événements du domaine fréquentiel.
+Modulation de fréquence (FM) : variation de fréquence d'un signal porteur.
+Gamme de fréquences : plage de fréquence opérationnelle d'un appareil.
+Plage de fréquences : plage de fréquences comprise entre deux limites.
+Marqueur : point sur une forme d'onde pour l'extraction des données.
+Moduler : pour faire varier une caractéristique du signal pour la transmission d'informations.
+Bruit : perturbations indésirables d'un signal.
+Niveau de bruit : niveau de signal minimum observable dans un système.
+Bande passante de bruit (NBW) : bande passante utilisée pour calculer la puissance du bruit.
+Probabilité d'interception : certitude de détection du signal dans les limites des paramètres.
+Bande passante en temps réel : plage de fréquences pour une capture en temps réel fluide.
+Capture fluide en temps réel : acquisition ininterrompue d'échantillons dans le domaine temporel.
+Analyse spectrale en temps réel : analyse à l'aide de la technologie DFT pour une analyse continue de la bande passante.
+Analyseur de spectre en temps réel : instrument pour mesurer les signaux RF dans plusieurs domaines.
+Niveau de référence : niveau de la ligne d'affichage le plus haut d'un analyseur.
+Bande passante de résolution (RBW) : bande de fréquences mesurable la plus étroite lors d'une analyse de spectre.
+Sensibilité : possibilité d'afficher des signaux de niveau minimum.
+Spectrogramme : affichage fréquence-temps-amplitude.
+Spectre : représentation d'un signal dans le domaine fréquentiel.
+Analyse de spectre : technique permettant de déterminer le contenu fréquentiel d'un signal.
+Analyse du signal vectoriel : analyse de modulation tenant compte de l'amplitude et de la phase.

@@ -1,0 +1,35 @@
+ACP : alimentation par canal adjacent
+ADC : convertisseur analogique-numérique
+AM : modulation d'amplitude
+BW : bande passante
+CCDF : fonction de distribution cumulée complémentaire
+CDMA : accès multiple par division de code
+CW : onde continue
+dB : décibel
+dBFS : pleine échelle dB
+DDC : convertisseur abaisseur numérique
+DFT : transformée de Fourier discrète
+DPX : affichage numérique au phosphore, spectre, etc.
+DSP : traitement numérique du signal
+EVM : amplitude du vecteur d'erreur
+FFT : transformée de Fourier rapide
+FM : modulation de fréquence
+FSK : insertion par décalage de fréquence
+IF : fréquence intermédiaire
+QI : quadrature en phase
+LO : oscillateur local
+NBW : bande passante de bruit
+OFDM : multiplexage par répartition orthogonale des fréquences
+PAR : ratio crête-moyenne
+PM : modulation de phase
+POI : probabilité d'interception
+PRBS : séquence binaire pseudo-aléatoire
+PSK : saisie par décalage de phase
+QAM : modulation d'amplitude en quadrature
+QPSK : insertion par décalage de phase en quadrature
+RBW : bande passante de résolution
+RF : radiofréquence
+RMS : moyenne quadratique
+RTSA : analyseur de spectre en temps réel
+SA : analyseur de spectre
+VSA : analyseur de signaux vectoriels
