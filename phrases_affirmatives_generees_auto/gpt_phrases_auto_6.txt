@@ -1,0 +1,21 @@
+La bande AM s’étend de 526,5 kHz à 1606,5 kHz.
+Un signal AM est un signal de radiodiffusion à modulation d’amplitude.
+La bande FM s’étend de 87,5 MHz à 108 MHz.
+Un signal FM est un signal de radiodiffusion à modulation de fréquence.
+Un signal FM a une largeur de bande d’environ 200 kHz.
+La bande FM est réservée aux services de radiodiffusion sonore.
+La radiodiffusion FM est utilisée pour la transmission de programmes musicaux et parlés.
+Un signal FM a un lieu d’émission qui correspond à un émetteur radio.
+La TNT (Télévision Numérique Terrestre) utilise la bande de 470 MHz à 694 MHz en France.
+Un signal TNT est un signal de radiodiffusion télévisuelle.
+La TNT utilise la modulation COFDM.
+Un signal TNT a un émetteur qui est une antenne de diffusion terrestre.
+La bande des 225 kHz est réservée à la radiodiffusion grandes ondes (GO).
+La bande des 162 kHz est utilisée pour la radiodiffusion grandes ondes.
+Un signal grandes ondes (GO) est un signal radioélectrique de longue portée.
+La radiodiffusion grandes ondes est utilisée pour la diffusion d’informations nationales et internationales.
+Un signal GO a un émetteur qui est une antenne de très grande puissance.
+Un lieu peut interdire l’utilisation d’un signal de radiodiffusion si celui-ci interfère avec d’autres services essentiels.
+La radiodiffusion FM est soumise à une autorisation de l’ARCOM.
+L’ANFR coordonne les fréquences de radiodiffusion avec les autres services.
+Un signal FM peut être perturbé par un brouillage électromagnétique.

@@ -1,0 +1,16 @@
+Les bandes de fréquences militaires sont utilisées pour les communications tactiques sécurisées.
+Les forces armées utilisent certaines bandes UHF pour les communications terrestres.
+La bande 225-400 MHz est largement attribuée aux communications aéronautiques militaires.
+Les radars militaires exploitent des fréquences dans les bandes L (1-2 GHz) et S (2-4 GHz).
+Les systèmes de brouillage militaire utilisent des bandes spécifiques pour neutraliser les signaux adverses.
+Certaines bandes HF (3-30 MHz) sont réservées aux communications longue distance entre bases militaires.
+Les satellites militaires de communication exploitent des bandes SHF (3-30 GHz).
+L’OTAN attribue des fréquences particulières pour les exercices multinationaux.
+Les astronomes utilisent des bandes protégées autour de 1420 MHz pour l’observation de l’hydrogène neutre.
+La radioastronomie requiert des zones sans interférences appelées « quiet zones ».
+Les bandes 1,6-1,7 GHz sont protégées pour l’étude des émissions cosmiques.
+Les satellites météorologiques exploitent des fréquences dans les bandes 137-138 MHz et 1690-1710 MHz.
+Les chercheurs en sciences de l’atmosphère utilisent les fréquences des micro-ondes pour mesurer l’humidité et la température.
+Les systèmes de télédétection par satellite exploitent des fréquences dans les bandes X (8-12 GHz).
+Certaines bandes sont réservées exclusivement aux expériences scientifiques, sans usage commercial autorisé.
+Le TNRBF mentionne la protection stricte des fréquences utilisées en radioastronomie contre les brouillages.

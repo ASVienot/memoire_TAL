@@ -1,0 +1,27 @@
+La bande de fréquences 169,4-169,475 MHz est disponible pour les appareils de faible puissance et de faible portée (AFP). 
+Dans la bande 169,4-169,475 MHz, la puissance maximale rayonnée équivalente (PIRE) est de 500 mW. 
+Dans la bande 169,4-169,475 MHz, le coefficient d’utilisation ne doit pas dépasser 10 %. 
+Le TNRBF précise, pour chaque bande de fréquences, les services attribués en France. 
+Le TNRBF fixe les droits et obligations des affectataires de bandes de fréquences. 
+Le TNRBF est applicable sur l'ensemble du territoire métropolitain de la France. 
+La bande 2,575-2,620 MHz (2,6 GHz) TDD est attribuée pour les réseaux mobiles à très haut débit. 
+Dans la bande 2,6 GHz TDD, des blocs de fréquences de 5, 10, 15, 20 ou 40 MHz peuvent être attribués. 
+Pour des demandes supérieures à 20 MHz dans la bande 2,6 GHz TDD, le demandeur doit justifier la nécessité de disposer d’une telle largeur de bande. 
+Le TNRBF distingue les affectataires ayant un statut égalitaire (EGAL) dans certaines bandes. 
+Le TNRBF inclut des bandes réservées exclusivement à la détresse et à la sécurité sans affectataire inscrit. 
+Un service secondaire dans une bande de fréquences doit respecter les services primaires attribués dans la même bande. 
+L’ANFR contrôle les implémentations de sites d’émission excédant une puissance de 5 watts.
+La bande de fréquences 169,4-169,475 MHz est disponible pour les appareils de faible puissance et de faible portée (AFP).
+Dans la bande 169,4-169,475 MHz, la puissance maximale rayonnée équivalente (PIRE) est de 500 mW.
+Dans la bande 169,4-169,475 MHz, le coefficient d’utilisation ne doit pas dépasser 10 %.
+Une bande de fréquences est une partie continue du spectre radioélectrique limitée par deux valeurs exprimées en Hertz.
+Le TNRBF fixe les droits et obligations des affectataires de bandes de fréquences.
+L'Annexe 7 du TNRBF indique les conditions techniques d’utilisation des bandes 5 945-6 425 MHz pour les appareils WAS/RLAN à faible puissance.
+Dans la bande 5 945-6 425 MHz, pour les appareils WAS/RLAN à faible puissance en intérieur, la puissance maximale est de 23 dBm PIRE.
+Dans la bande 5 945-6 425 MHz, les dispositifs VLP ont une puissance maximale de 14 dBm PIRE.
+Dans la bande 5 945-6 425 MHz, la densité spectrale est de 10 dBm/MHz PIRE pour certaines configurations.
+Dans la bande 5 945-6 425 MHz, la densité spectrale pour les émissions hors bande sous 5 935 MHz est de -22 dBm/MHz PIRE.
+Dans la bande 5 945-6 425 MHz, pour les dispositifs à bande étroite, la densité spectrale est de 1 dBm/MHz PIRE.
+Dans la bande 5 945-6 425 MHz, pour les dispositifs hors bande en dessous de 5 935 MHz, la densité spectrale est de -45 dBm/MHz PIRE.
+Les appareils de faible puissance et de faible portée (AFP) sont admis uniquement en intérieur dans la bande 5 945-6 425 MHz.
+L’Annexe 7 du TNRBF définit des bandes utilisables pour des équipements de télérelève dans la bande 169,4-169,475 MHz.

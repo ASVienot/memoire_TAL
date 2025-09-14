@@ -1,0 +1,30 @@
+Un signal est de la classe des entités radioélectriques.
+Un signal a une fréquence exprimée en Hertz.
+Un signal a une largeur de bande exprimée en Hertz.
+Un signal a une puissance exprimée en décibels-milliwatts.
+Un signal a un type de signal.
+Un signal a un émetteur.
+Un signal a un récepteur.
+Un signal a un lieu d’émission.
+Un signal a un lieu de réception.
+Un signal respecte une contrainte technique.
+Un signal respecte une contrainte réglementaire.
+Un signal de type Bluetooth est un signal radioélectrique de courte portée.
+Un signal de type Bluetooth a une largeur de bande de 2,4 GHz.
+Un signal de type Wi-Fi a une bande passante comprise entre 20 MHz et 160 MHz.
+Un signal de type GSM utilise une fréquence comprise entre 890 MHz et 960 MHz.
+Un signal de type GPS a une fréquence de 1,57542 GHz.
+Un émetteur est de la classe des dispositifs techniques.
+Un récepteur est de la classe des dispositifs techniques.
+Un lieu est de la classe des zones géographiques.
+Un lieu a des règles.
+L’aéroport X est de la classe des lieux.
+L’aéroport X interdit l’utilisation du Bluetooth.
+L’aéroport X autorise l’utilisation du Wi-Fi.
+L’ANFR est de la classe des autorités de régulation.
+L’ANFR définit des règles d’utilisation des fréquences.
+Un brouillage est une anomalie.
+Un spoofing est une anomalie.
+Une anomalie est une violation de contrainte.
+Une contrainte peut être technique ou réglementaire.
+Une contrainte réglementaire interdit l’utilisation d’un signal dans un lieu.

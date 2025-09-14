@@ -1,0 +1,33 @@
+Un signal Wi-Fi est un signal radioélectrique de courte portée.
+Un signal Wi-Fi fonctionne dans la bande de 2,4 GHz.
+Un signal Wi-Fi fonctionne aussi dans la bande de 5 GHz.
+Un signal Wi-Fi a une largeur de bande typique de 20 MHz.
+Un signal Wi-Fi est utilisé pour la transmission de données locales.
+Un signal GSM est un signal radioélectrique de téléphonie mobile.
+Un signal GSM 900 fonctionne entre 890 et 915 MHz en liaison montante.
+Un signal GSM 900 fonctionne entre 935 et 960 MHz en liaison descendante.
+Un signal GSM 1800 fonctionne entre 1710 et 1785 MHz en liaison montante.
+Un signal GSM 1800 fonctionne entre 1805 et 1880 MHz en liaison descendante.
+Un signal GSM a une largeur de bande de 200 kHz par canal.
+Un signal UMTS est un signal radioélectrique de troisième génération.
+Un signal UMTS 2100 fonctionne entre 1920 et 1980 MHz en liaison montante.
+Un signal UMTS 2100 fonctionne entre 2110 et 2170 MHz en liaison descendante.
+Un signal LTE est un signal radioélectrique de quatrième génération.
+Un signal LTE bande 20 fonctionne entre 791 et 821 MHz en liaison montante.
+Un signal LTE bande 20 fonctionne entre 832 et 862 MHz en liaison descendante.
+Un signal LTE a une largeur de bande variable entre 1,4 et 20 MHz.
+Un signal 5G est un signal radioélectrique de cinquième génération.
+Un signal 5G bande n78 fonctionne entre 3,4 et 3,8 GHz.
+Un signal 5G bande n258 fonctionne entre 24,25 et 27,5 GHz.
+Un signal 5G peut utiliser des largeurs de bande supérieures à 50 MHz.
+Un signal satellite est un signal radioélectrique de communication spatiale.
+Un signal satellite L-band fonctionne entre 1 et 2 GHz.
+Un signal satellite S-band fonctionne entre 2 et 4 GHz.
+Un signal satellite C-band fonctionne entre 4 et 8 GHz.
+Un signal satellite Ku-band fonctionne entre 12 et 18 GHz.
+Un signal satellite Ka-band fonctionne entre 26 et 40 GHz.
+Un signal satellite est utilisé pour la diffusion télévisuelle, la navigation et l’Internet.
+Un signal radioélectrique a une attribution réglementaire définie par le TNRBF.
+Un service mobile est autorisé dans la bande 890–915 MHz et 935–960 MHz.
+Un service fixe est autorisé dans la bande 3,4–3,8 GHz.
+Un service satellite est autorisé dans les bandes Ku et Ka.

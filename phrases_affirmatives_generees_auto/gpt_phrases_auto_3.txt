@@ -1,0 +1,30 @@
+Le TNRBF précise pour chaque bande de fréquences les services attribués en France. 
+Le TNRBF fixe les droits des affectataires de bandes de fréquences. 
+Une bande de fréquences est une partie continue du spectre limitée par deux valeurs exprimées en Hertz. 
+Un service de radiocommunication implique l’émission, la réception ou la transmission d’ondes radioélectriques. 
+Des affectataires peuvent avoir le statut EXCL dans une bande de fréquences. 
+Des affectataires peuvent avoir le statut PRIO pour protéger leurs usages. 
+Des affectataires peuvent avoir le statut EGAL pour partager une bande de fréquences à égalité. 
+L’autorisation de l’utilisation des fréquences incombe aux autorités administratives indépendantes. 
+L’ANFR autorise les implantations de sites d’émission dont la puissance dépasse un seuil réglementaire. 
+La puissance maximale d’émission d’un mobile GSM à 900 MHz est de 2 Watts. 
+La puissance maximale d’émission d’un mobile GSM à 1800 MHz est de 1 Watt. 
+Un mobile en mode 2G émet à puissance maximale lors du changement de cellule. 
+Le contrôle de puissance en 3G est plus fin que celui en 2G. 
+Un service secondaire a des obligations vis-à-vis des services primaires. 
+Un service attribué à titre primaire bénéficie de priorité réglementaire. 
+L’arrêté du 18 avril 2025 est la version récente du TNRBF. 
+La répartition des bandes de fréquences dans le TNRBF s’applique au territoire métropolitain de France. 
+L’usage des bandes réservées à la détresse et à la sécurité n’a pas d’affectataire inscrit. 
+Les bandes de fréquences pour appareils de faible puissance sont définies dans l’annexe 7. 
+La bande de 5 945 à 6 425 MHz autorise des dispositifs WAS/RLAN à faible puissance en intérieur. 
+Les émissions hors bande sous 5 935 MHz sont limitées pour certains dispositifs. 
+La densité spectrale maximale imposée est de 10 dBm/MHz pour certains dispositifs. 
+L’accès aux fréquences peut être général ou individuel selon le type de service. 
+L'ANFR contrôle l’utilisation des fréquences pour assurer une bonne cohabitation des usages. 
+L’Agence nationale des fréquences traite les plaintes en brouillage. 
+Les services de sécurité et de détresse utilisent des bandes réservées. 
+Une bande attribuée à un service primaire a priorité sur un service secondaire. 
+L’usage d’une bande de fréquences désignée pour un usage fixe ne permet pas toujours un usage mobile. (dépend des décisions spécifiques) 
+L’ANFR publie des cartes des sites émetteurs mobiles. 
+Les sites 5G autorisés en France sont au nombre de plus de 52 500. 

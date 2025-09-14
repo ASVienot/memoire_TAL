@@ -1,0 +1,21 @@
+La bande des 156 à 174 MHz est utilisée pour les communications maritimes.
+Un canal VHF maritime est une sous-division de la bande 156 à 174 MHz.
+Le canal 16 VHF maritime a une fréquence centrale de 156,8 MHz.
+Le canal 16 VHF maritime est réservé aux appels de détresse et de sécurité.
+Un navire utilise un canal VHF maritime pour communiquer avec les stations côtières.
+Les communications VHF maritimes sont de type voix analogique.
+Les communications VHF maritimes ont une portée de 20 à 30 milles nautiques.
+La bande 2187,5 kHz est utilisée pour le système mondial de détresse et de sécurité en mer (SMDSM).
+Le système SMDSM est obligatoire pour les navires de commerce.
+Les communications maritimes sont réglementées par l’UIT et l’ANFR.
+La bande des 108 à 137 MHz est utilisée pour les communications aéronautiques civiles.
+La bande des 108 à 117,975 MHz est utilisée pour la radionavigation aéronautique.
+La bande des 118 à 137 MHz est utilisée pour les communications voix aéronautiques.
+Un canal VHF aéronautique a une largeur de bande de 25 kHz.
+Certains canaux VHF aéronautiques ont une largeur de bande de 8,33 kHz.
+Le canal 121,5 MHz est réservé aux communications de détresse aéronautiques.
+Le canal 123,1 MHz est utilisé pour les communications de coordination SAR (Search and Rescue).
+Les communications aéronautiques VHF ont une portée limitée à la ligne de vue radio.
+Un avion a un émetteur-récepteur VHF pour communiquer avec une tour de contrôle.
+Une tour de contrôle a une fréquence VHF aéronautique attribuée.
+Les communications aéronautiques sont régulées par l’OACI et l’ANFR.

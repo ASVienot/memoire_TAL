@@ -1,0 +1,30 @@
+La fréquence des radiofréquences s’étend de 3 kHz à 300 GHz en France. 
+Un signal radiofréquence peut être utilisé pour la téléphonie mobile. 
+Un signal radiofréquence peut être utilisé pour la télévision numérique. 
+Un signal radiofréquence peut être utilisé pour le Wi-Fi. 
+Un appareil Bluetooth opère dans la bande de fréquences libres sous conditions réglementaires. 
+Un signal dans une bande libre n’est pas soumis à autorisation individuelle. 
+Un équipement radioélectrique non conforme cause un brouillage. 
+L’utilisation d’une fréquence sans autorisation est une infraction pénale. 
+Un équipement radioélectrique mal installé génère une émission non conforme. 
+Une bande de haute fréquence (HF) est surveillée par l’ANFR. 
+L’ANFR contrôle les réseaux mobiles par des mesures de terrain. 
+La directive RED définit les équipements radioélectriques. 
+Un signal Bluetooth a une puissance maximale fixée dans la réglementation française. (À vérifier selon les normes exactes)
+Un lieu public a des limites d’exposition aux champs électromagnétiques. 
+Un opérateur doit déclarer un équipement radioélectrique s’il utilise certaines bandes. 
+Un réseau PMR (Professional Mobile Radio) a des bandes assignées spécifiques. 
+Une fréquence utilisée par la 3G est réservée aux opérateurs de télécommunications. 
+Le champ électromagnétique diminue avec la distance à l’antenne. 
+Un émetteur LTE à 2,6 GHz nécessite une autorisation de l’ANFR. 
+La bande 433,05-434,79 MHz est libre d’utilisation sous conditions. 
+Un équipement radioélectrique exempté n’a pas besoin d’autorisation. 
+L’Agence nationale des fréquences définit le TNRBF (Tableau national de répartition des bandes de fréquences). 
+Un signal émis dans une bande non attribuée peut être illégal. 
+Un signal Bluetooth est utilisé par des dispositifs de courte portée non spécifiques. 
+Un microphone sans fil peut utiliser une bande libre. 
+Un équipement radioélectrique doit respecter les valeurs limites d’exposition au public. 
+Un signal Wi-Fi est soumis à des limitations de puissance d’émission. 
+Un signal RF a une caractéristique de modulation. (Standard technique)
+Un signal RF a une latence liée au protocole de communication. (Standard technique / performance)
+Une antenne relais a un périmètre de sécurité autour d’elle. 
